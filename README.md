@@ -9,3 +9,12 @@
 5. Click on `Replace all`
 6. Try predicting the output
 7. Run the program to get the output and compare with your predicted output.
+
+## Git init
+
+`git init`
+
+```
+git config --global user.name <Your name>
+git config --global user.email <Your email>
+```
