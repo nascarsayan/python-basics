@@ -1,4 +1,5 @@
 1. What does the range() function do? What will be the number of iterations in the following loops?
+
     1.
     ```py
     for i in range(10):
